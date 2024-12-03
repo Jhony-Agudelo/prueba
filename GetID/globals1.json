@@ -3,13 +3,13 @@
 	"values": [
 		{
 			"key": "client-id",
-			"value": "ff2fc626be69b62f55c346c00305ecb4",
+			"value": "05b8359848258bd66d08263b25268cbd",
 			"type": "any",
 			"enabled": true
 		},
 		{
 			"key": "client-secret",
-			"value": "b4f63694b8250e977713838ad1b46f32",
+			"value": "887342a7f1bb692261d313770896f0ae",
 			"type": "any",
 			"enabled": true
 		},
@@ -45,13 +45,13 @@
 		},
 		{
 			"key": "base-url",
-			"value": "https://directoriofederado.crt.transfiya.com.co/ach/tx",
+			"value": "https://cp4i-gw-gateway-cp4i-apic.apps.devach.achopenshift.itac.com.co/pub/transfiya",
 			"type": "any",
 			"enabled": true
 		},
 		{
 			"key": "entidad",
-			"value": "dd2896e7-b0d2-4560-a3ec-99d18536b551",
+			"value": "2cd72488-51c7-45fb-bcdd-43120910c06c",
 			"type": "any",
 			"enabled": true
 		},
